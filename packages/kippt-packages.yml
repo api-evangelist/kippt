@@ -1,0 +1,40 @@
+generated: '2026-07-19'
+method: searched
+source: npm, PyPI, RubyGems registry search for the historical kippt.com API
+note: >-
+  Kippt (kippt.com) was a social bookmarking service that exposed a public REST
+  API. The service has been discontinued and the domain no longer responds, but
+  community-authored client libraries for that historical API remain published
+  on the public registries. None are first-party — every one is a third-party
+  wrapper authored by an individual developer, so all are recorded official:false.
+packages:
+  - language: python
+    registry: pypi
+    name: kippt
+    url: https://pypi.org/project/kippt/
+    install: pip install kippt
+    version: 2.0.0
+    description: Kippt.com API wrapper for Python
+    author: TJ (Thomas) Biddle
+    source: https://github.com/thomasbiddle/Kippt-Python-Wrapper
+    official: false
+  - language: ruby
+    registry: rubygems
+    name: kippt
+    url: https://rubygems.org/gems/kippt
+    install: gem install kippt
+    version: 3.1.0
+    description: Client library for using Kippt.com API
+    author: Vesa Vänskä
+    source: https://github.com/vesan/kippt
+    official: false
+  - language: javascript
+    registry: npm
+    name: node-kippt
+    url: https://www.npmjs.com/package/node-kippt
+    install: npm install node-kippt
+    version: 0.0.4
+    description: A wrapper for the kippt.com API
+    author: Dominick Pham
+    source: https://github.com/enotionz/node-kippt
+    official: false
