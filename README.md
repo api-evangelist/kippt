@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Kippt is a company surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: a16z
+Kippt was a social bookmarking and link-saving service (kippt.com) that let people save, organize, and share bookmarks in lists and follow other users' collections. It exposed a public REST API over the kippt.com domain, which produced a small ecosystem of community-authored client libraries in Python, Ruby, and JavaScript. Kippt was surfaced as a portfolio company of a16z and added to the API Evangelist network as a stub for enrichment. The service has since been discontinued: the kippt.com domain resolves to a legacy IP but no longer responds, so there is no live developer portal, documentation, or API surface to harvest. What remains real and capturable is the set of third-party API wrapper packages still published on the public registries.
+
+**Areas:** Company · Bookmarking · Bookmarks · Social · Links · Content Curation · Discontinued · Defunct
+
+## Kippt on APIs.io (historical record)
+
+Everything profiled for Kippt is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kippt/](https://apis.io/providers/kippt/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kippt: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kippt/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
